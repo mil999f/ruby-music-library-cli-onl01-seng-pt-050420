@@ -9,11 +9,4 @@ module Concerns::Findable  # defines a module named Concerns::Findable (FAILED -
         self.find_by_name(name) || self.create(name) 
     end 
 
-
-    
-
-
-
-
-
 end
