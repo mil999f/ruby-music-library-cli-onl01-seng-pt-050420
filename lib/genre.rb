@@ -39,7 +39,4 @@ class Genre
     end                                                # collects artists through its songs instead of maintaining its own @artists instance variable (genre has many artists through songs)
 
 
-
-
-
 end
